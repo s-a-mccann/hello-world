@@ -1,0 +1,3 @@
+x = "This is the Git page with python code"
+
+print(x)
